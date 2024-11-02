@@ -1,3 +1,5 @@
+# Log the execução do teste unitário:
+
 Running pytest with args: ['-p', 'vscode_pytest', '--rootdir=c:\\Projetos_GitHub\\Prova_SENAI_01.11.2024\\Prova_SENAI_02302_2024_Questao3', 'c:\\Projetos_GitHub\\Prova_SENAI_01.11.2024\\Prova_SENAI_02302_2024_Questao3\\python\\unittest\\test_pergunta2.py::TestesDescriptografia::teste_descriptografia_chave_invalida', 'c:\\Projetos_GitHub\\Prova_SENAI_01.11.2024\\Prova_SENAI_02302_2024_Questao3\\python\\unittest\\test_pergunta2.py::TestesDescriptografia::teste_descriptografia_sucesso']
 ============================= test session starts =============================
 platform win32 -- Python 3.12.1, pytest-8.3.3, pluggy-1.5.0
