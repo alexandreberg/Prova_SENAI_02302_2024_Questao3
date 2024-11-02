@@ -1,0 +1,8 @@
+# Log the execução do código:
+python.exe c:/Projetos_GitHub/Prova_SENAI_01.11.2024/Prova_SENAI_02302_2024_Questao3/python/pergunta1.py
+
+# Log:
+PS C:\Projetos_GitHub\Prova_SENAI_01.11.2024\Prova_SENAI_02302_2024_Questao3> & C:/Users/alexa/AppData/Local/Programs/Python/Python312/python.exe c:/Projetos_GitHub/Prova_SENAI_01.11.2024/Prova_SENAI_02302_2024_Questao3/python/pergunta1.py
+Mensagem descriptografada: Sistemas Embarcados
+PS C:\Projetos_GitHub\Prova_SENAI_01.11.2024\Prova_SENAI_02302_2024_Questao3>
+
