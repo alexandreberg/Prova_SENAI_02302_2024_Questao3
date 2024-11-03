@@ -4,12 +4,12 @@ Aqui encontram-se os arquivos referentes a Questão 3 da PROVA PRATICA - Process
 ## Enunciado:
 Avaliação prática:
 
-O estudo de caso pode ser realizado em sistemas Linux ou Windows. As questões 2 e 3 devem abordar a ferramenta de versionamento git [1] e serem armazenadas em um repositório público (por exemplo, GitHub, Gitlab).
+O estudo de caso pode ser realizado em sistemas Linux ou Windows. As questões 2 e 3 devem abordar a ferramenta de versionamento git [1] e serem armazenadas em um repositório público (por exemplo, *GitHub*, *Gitlab*).
 
 ***
-### Questão 3: (COM GIT)
+### Questão 3: (COM *GIT*)
 
-Para o uso de sistemas embarcados, considerando entregas de protótipos e produtos, é de fundamental importância agregar funcionalidades de segurança para que o sistema não sofra com hackers, invasões e interceptação de dados. Diante disso, o padrão de criptografia avançada – ou simplesmente AES – é uma abordagem comumente utilizada em aplicações embarcadas, assim como considerado em [4].
+Para o uso de sistemas embarcados, considerando entregas de protótipos e produtos, é de fundamental importância agregar funcionalidades de segurança para que o sistema não sofra com *hackers*, invasões e interceptação de dados. Diante disso, o padrão de criptografia avançada – ou simplesmente *AES* – é uma abordagem comumente utilizada em aplicações embarcadas, assim como considerado em [4].
 
 Com um outro viés de segurança, agora considerando a abordagem de funcionalidade de código e sua robustez, uma importante abordagem é o uso de testes unitários, consistindo na verificação do comportamento de módulos de um determinado software [5].
 
@@ -19,16 +19,16 @@ A partir das informações, considere os caracteres a seguir:
 a57fd9725fb53c53d5bd0b56185da50f70ab9baea5a43523b76c03e3eb989a20
 ```
 
-Eles representam uma frase codificada com o algoritmo **AES**, em modo **ECB**, com tamanho de chave de 128 bits. A chave utilizada para codificar a mensagem é: **"thisisasecretkey".**
+Eles representam uma frase codificada com o algoritmo *AES*, em modo *ECB*, com tamanho de chave de 128 bits. A chave utilizada para codificar a mensagem é: ***"thisisasecretkey".***
 
-Com base no sistema de criptografia AES e aplicação de testes unitários, pede-se:
+Com base no sistema de criptografia *AES* e aplicação de testes unitários, pede-se:
 
 ***
 #### Pergunta 1.
-Implemente um código em linguagem **C**, **C++**, ou **Python**, capaz de realizar a decodificação da mensagem e imprimir a mesma em terminal de execução do software:
+Implemente um código em linguagem *C*, *C++*, ou *Python*, capaz de realizar a decodificação da mensagem e imprimir a mesma em terminal de execução do software:
 
 Abaixo seguem o código comentado de resposta da pergunta 1, bem como o log de execução do código, mostrando a resposta da chave descriptografada.  
-Para essa resolução foram escolhidos códigos em linguagem **python**.  
+Para essa resolução foram escolhidos códigos em linguagem *python*.  
 
 * [Código de resposta da pergunta 1](https://github.com/alexandreberg/Prova_SENAI_02302_2024_Questao3/blob/main/python/pergunta_1.py)
 * [Log da execução do código pergunta 1](https://github.com/alexandreberg/Prova_SENAI_02302_2024_Questao3/blob/main/python/pergunta1_resultado.log)
