@@ -32,7 +32,7 @@ Para essa resolução foram escolhidos códigos em linguagem **python**.
 
 * [Código de resposta da pergunta 1](https://github.com/alexandreberg/Prova_SENAI_02302_2024_Questao3/blob/main/python/pergunta_1.py)
 * [Log da execução do código pergunta 1](https://github.com/alexandreberg/Prova_SENAI_02302_2024_Questao3/blob/main/python/pergunta1_resultado.log)
-* A mensagem descriptografada é:  *Sistemas Embarcados*
+* A mensagem descriptografada é:  ***Sistemas Embarcados***
 
 ***
 #### Pergunta 2.
